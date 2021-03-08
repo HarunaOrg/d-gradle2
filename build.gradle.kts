@@ -29,7 +29,7 @@ dependencies {
     implementation("com.typesafe.akka:akka-slf4j_$scalaVersion:_")
 
 
-    testImplementation("junit:junit:4.13")
+    testImplementation("junit:junit:4.13.2")
     testImplementation("org.scalatest:scalatest_$scalaVersion:_")
     testImplementation("org.scalatestplus:junit-4-12_$scalaVersion:_")
 
