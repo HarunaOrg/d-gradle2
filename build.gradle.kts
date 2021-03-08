@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-    val scalaVersion = "2.12"
+    val scalaVersion = "2.13.5"
     implementation("org.scala-lang:scala-library:$scalaVersion")
 
     //TODO: Remove imperative part of scala version
